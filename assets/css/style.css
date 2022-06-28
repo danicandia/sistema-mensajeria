@@ -1,0 +1,48 @@
+.menu-container {
+    background-color: rgb(5, 5, 5);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    width: 10%;
+    
+}
+
+.flex-container{
+    display: flex;
+}
+
+.menu-items{
+    display: flex;
+    align-items: center;
+    width: 5em;
+    min-height: 100vh;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+
+}
+
+.container img{
+    width: 20%;
+}
+
+.container p{
+    width: 20em;
+}
+
+.menubar{
+    display: flex;
+    flex-direction: column;
+    width: 9em;
+}
+
+.menubar img{
+    width: 2em;
+    border-radius: 50%;
+}
+
